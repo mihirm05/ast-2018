@@ -1,4 +1,4 @@
-# ast-2018
+s # ast-2018
 Advanced Software Technology 2018 course work
 
 
@@ -7,7 +7,7 @@ Introductory course for software technology.
 Students attending:
 1. ---
 2. --- 
-3. ---
+3. Mihir 
 4. ---
 5. ---
 6. ---
